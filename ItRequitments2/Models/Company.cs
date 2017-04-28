@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
 namespace ItRequitment.Models
 {
+    [Table("Company")]
     public class Company
     {
+        [Key]
         public int CompanyId { get; protected set; }
 
         public Guid Id { get; protected set; }

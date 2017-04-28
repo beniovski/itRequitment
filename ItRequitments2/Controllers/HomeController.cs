@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ItRequitments2.Controllers
+namespace ItRequitment.Controllers
 {
     public class HomeController : Controller
     {

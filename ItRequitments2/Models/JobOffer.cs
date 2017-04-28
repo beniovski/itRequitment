@@ -19,6 +19,8 @@ namespace ItRequitment.Models
 
         public string Placement { get; protected set; }
 
+        public Company company { get; protected set;}
+
         public IEnumerable<string> Category { get; protected set; }
          
      }
