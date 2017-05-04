@@ -1,17 +1,22 @@
 
 namespace ItRequitments.Migrations
 {
+    using MySql.Data.Entity;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
+    using System.Data.Entity.Migrations.Model;
+    using System.Data.Entity.Migrations.Sql;
     using System.Linq;
 
      sealed class Configuration : DbMigrationsConfiguration<ItRequitments2.DAL.UserContext>
     {
         public Configuration()
         {
+            CodeGenerator = new MySqlMigrationCodeGenerator();
             AutomaticMigrationsEnabled = true;
             AutomaticMigrationDataLossAllowed = true;
+            SetSqlGenerator("MySql.Data.MySqlClient", new MySqlMigrationSqlGenerator());
 
         }
 
