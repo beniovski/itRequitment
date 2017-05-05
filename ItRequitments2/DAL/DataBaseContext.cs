@@ -6,7 +6,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace ItRequitments2.DAL
+namespace ItRequitment.DAL
 {
     class DataBaseContext : DbContext
     {
@@ -17,7 +17,7 @@ namespace ItRequitments2.DAL
         {
             base.OnModelCreating(modelBuilder);
         }
-        public DbSet<User> User{ get; set; }
+        public DbSet<User> User { get; set; }
         public DbSet<JobOffer> JobOffer { get; set; }
         public DbSet<Company> Company { get; set; }
     }

@@ -35,6 +35,13 @@ namespace ItRequitment.Models
 
         public DateTime CreationDate { get; protected set; }
 
+        public virtual ICollection<JobOffer> JobOffers { get; set; }
+
+        public Company()
+        {
+            JobOffers = new HashSet<JobOffer>();
+        }
+
        // public JobOffer Offer { get; protected set; }
 
        // public IEnumerable<JobOffer> AllOffer { get; protected set; }

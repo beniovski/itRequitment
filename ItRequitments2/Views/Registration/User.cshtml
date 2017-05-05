@@ -1,0 +1,56 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+} 
+@model ItRequitment.Models.User
+
+<div class="container ">
+   <div class="row">
+        <div class="col-md-6 centred">
+            <h3>Zarejestruj się</h3>
+          
+            @using(Html.BeginForm("User","Registration", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                <div class="row">
+                    <div class="col-md-8">
+                      
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Login : </label>
+                                    @Html.TextBoxFor(x=>x.Login)
+                                    @Html.ValidationMessageFor(x=>x.Login)              
+                                    <p class="help-block"></p>
+                                </div>
+                            </div>
+
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Email : </label>
+                                    @Html.TextBoxFor(x => x.Email)
+                                    @Html.ValidationMessageFor(x => x.Email)
+                                    <p class="help-block"></p>
+                                </div>
+                            </div>
+
+                            <div class="control-group form-group">
+                                <div class="controls">
+                                    <label>Password : </label>
+                                    @Html.TextBoxFor(x => x.Password)
+                                    @Html.ValidationMessageFor(x => x.Password)
+                                    <p class="help-block"></p>
+                                </div>
+                            </div>
+                            
+
+                            <div id="success"></div>
+                            <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary">Zarejestruj</button>
+                            <button type="reset" class="btn btn-danger">Resetuj</button>
+                        </div>
+                </div>
+
+            }
+        </div>
+    </div>
+
+   </div>

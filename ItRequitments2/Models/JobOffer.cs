@@ -34,9 +34,7 @@ namespace ItRequitment.Models
         [Required(ErrorMessage = "Podaj miejsce pracy")]
         public string Placement { get; protected set; }
 
-        //public Company company { get; protected set;}
-
-       // public IEnumerable<string> Category { get; protected set; }
+        public virtual Company company { get; protected set; }
          
      }
 }

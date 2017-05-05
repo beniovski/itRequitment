@@ -120,7 +120,8 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="DAL\UserContext.cs" />
+    <Compile Include="Controllers\RegistrationController.cs" />
+    <Compile Include="DAL\DataBaseContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -128,17 +129,23 @@
     <Compile Include="Migrations\201705051456237_init.Designer.cs">
       <DependentUpon>201705051456237_init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201705051513299_add relation.cs" />
+    <Compile Include="Migrations\201705051513299_add relation.Designer.cs">
+      <DependentUpon>201705051513299_add relation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Company.cs" />
     <Compile Include="Models\Repository\ICompanyRepository.cs" />
     <Compile Include="Models\Repository\IUserRepository.cs" />
     <Compile Include="Models\JobOffer.cs" />
-    <Compile Include="Models\user.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Home\index.cshtml" />
     <Content Include="fonts-awasome\fonts\fontawesome-webfont.eot" />
     <Content Include="fonts-awasome\fonts\fontawesome-webfont.ttf" />
@@ -170,6 +177,10 @@
     <Content Include="fonts-awasome\scss\_spinning.scss" />
     <Content Include="fonts-awasome\scss\_stacked.scss" />
     <Content Include="fonts-awasome\scss\_variables.scss" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Registration\User.cshtml" />
+    <Content Include="App_Start\UserAdd.cshtml" />
+    <Content Include="Views\Registration\UserAdd.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -183,6 +194,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201705051456237_init.resx">
       <DependentUpon>201705051456237_init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201705051513299_add relation.resx">
+      <DependentUpon>201705051513299_add relation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

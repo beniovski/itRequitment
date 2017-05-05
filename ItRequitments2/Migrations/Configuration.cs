@@ -9,7 +9,7 @@ namespace ItRequitments.Migrations
     using System.Data.Entity.Migrations.Sql;
     using System.Linq;
 
-     sealed class Configuration : DbMigrationsConfiguration<ItRequitments2.DAL.DataBaseContext>
+     sealed class Configuration : DbMigrationsConfiguration<ItRequitment.DAL.DataBaseContext>
     {
         public Configuration()
         {
@@ -20,7 +20,7 @@ namespace ItRequitments.Migrations
 
         }
 
-        protected override void Seed(ItRequitments2.DAL.DataBaseContext context)
+        protected override void Seed(ItRequitment.DAL.DataBaseContext context)
         {
             //  This method will be called after migrating to the latest version.
 
