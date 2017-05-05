@@ -59,6 +59,3 @@ C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.pdb
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.init.resources
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitment.csproj.GenerateResource.Cache
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.dodaniepola.resources
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.nowetabele.resources
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.dodatek.resources

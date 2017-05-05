@@ -7,13 +7,13 @@ namespace ItRequitments.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class dodaniepola : IMigrationMetadata
+    public sealed partial class init : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(dodaniepola));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(init));
         
         string IMigrationMetadata.Id
         {
-            get { return "201705041713581_dodanie pola"; }
+            get { return "201705051456237_init"; }
         }
         
         string IMigrationMetadata.Source

@@ -8,9 +8,9 @@ using System.Web;
 
 namespace ItRequitments2.DAL
 {
-    class UserContext : DbContext
+    class DataBaseContext : DbContext
     {
-        public UserContext() : base("databaseConection")
+        public DataBaseContext() : base("databaseConection")
         {
         }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
