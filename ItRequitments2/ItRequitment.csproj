@@ -113,8 +113,16 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\contact_me.js" />
     <Content Include="Scripts\jqBootstrapValidation.js" />
+    <None Include="Scripts\jquery-1.8.0.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.0.js" />
+    <Content Include="Scripts\jquery-1.8.0.min.js" />
     <Content Include="Scripts\jquery.js" />
     <Content Include="Global.asax" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -181,6 +189,8 @@
     <Content Include="Views\Registration\User.cshtml" />
     <Content Include="App_Start\UserAdd.cshtml" />
     <Content Include="Views\Registration\UserAdd.cshtml" />
+    <Content Include="Views\Registration\Company.cshtml" />
+    <Content Include="Views\Registration\CompanyAdd.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -190,6 +200,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Infrastructure\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201705051456237_init.resx">

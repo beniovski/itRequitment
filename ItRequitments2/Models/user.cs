@@ -29,6 +29,7 @@ namespace ItRequitment.Models
         public string Name { get;  set; }
 
         [Display(Name = "O sobie")]
+        [DataType(DataType.MultilineText)]
         public string Description { get;  set; }
 
         [Display(Name = "Nazwisko : ")]
@@ -46,8 +47,10 @@ namespace ItRequitment.Models
         [Display(Name = "Adres zamieszkania : ")]
         public string Addres { get;  set; }
 
+        [ScaffoldColumn(false)]
         public DateTime CreationDate { get;  set; }
 
+        [ScaffoldColumn(false)]
         public bool IsActive { get;  set; }
 
     }

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Security.Cryptography;
 using System.Web.Mvc;
 
 namespace ItRequitments.Controllers
@@ -12,28 +13,50 @@ namespace ItRequitments.Controllers
     {
         private DataBaseContext dbc = new DataBaseContext();
        
+
+       
         // GET: Registration
         public ActionResult User()
         {
             return View();
         }
-
-        
-        public ActionResult UserAdd()
+        public ActionResult Company()
         {
-            var user = new User
-            {
-                Login = "test",
-                Password = "pass",
-                Email = "emailtest",
-                
-            };
-            
-            dbc.User.Add(user);
-            dbc.SaveChanges();
-           
-            
             return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult UserAdd(User user)
+        {
+            if(!ModelState.IsValid)
+            {                
+                return View("User", user);
+            }
+           else
+            {
+                
+                dbc.User.Add(user);
+                dbc.SaveChanges();
+                return View();
+            }      
+           
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult CompanyAdd(Company company)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("Company", company);
+            }
+            else
+            {
+                dbc.Company.Add(company);
+                dbc.SaveChanges();
+                return View("CompanyAdd");
+            }
         }
     }
 }
