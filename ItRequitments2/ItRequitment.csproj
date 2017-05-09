@@ -200,7 +200,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Infrastructure\" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201705051456237_init.resx">
@@ -209,6 +208,16 @@
     <EmbeddedResource Include="Migrations\201705051513299_add relation.resx">
       <DependentUpon>201705051513299_add relation.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ItRequitment.Infrastructure\ItRequitment.Infrastructure.csproj">
+      <Project>{ada4af76-6bcd-4bac-8cc1-693f4c25f7e8}</Project>
+      <Name>ItRequitment.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ItRequitment.UnitTest\ItRequitment.UnitTests.csproj">
+      <Project>{e36ce618-6814-490d-a6b7-99ce28a4ebd4}</Project>
+      <Name>ItRequitment.UnitTests</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

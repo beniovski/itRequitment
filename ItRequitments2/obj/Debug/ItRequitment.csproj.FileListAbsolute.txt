@@ -60,3 +60,9 @@ C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.init.resources
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitment.csproj.GenerateResource.Cache
 C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\obj\Debug\ItRequitments.Migrations.addrelation.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.Infrastructure.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.UnitTest.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.UnitTest.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitments2\bin\ItRequitment.UnitTest.dll.config

@@ -6,14 +6,15 @@ using System.Linq;
 using System.Web;
 using System.Security.Cryptography;
 using System.Web.Mvc;
+using ItRequitment.Infrastructure.Service;
+using System.Text;
 
 namespace ItRequitments.Controllers
 {
     public class RegistrationController : Controller
     {
         private DataBaseContext dbc = new DataBaseContext();
-       
-
+        
        
         // GET: Registration
         public ActionResult User()
@@ -35,7 +36,8 @@ namespace ItRequitments.Controllers
             }
            else
             {
-                
+                            
+
                 dbc.User.Add(user);
                 dbc.SaveChanges();
                 return View();
