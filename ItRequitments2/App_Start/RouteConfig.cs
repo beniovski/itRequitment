@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ItRequitments2
+namespace ItRequitment
 {
     public class RouteConfig
     {
