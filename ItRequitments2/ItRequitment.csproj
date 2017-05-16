@@ -138,9 +138,13 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="DAL\DataBaseContext.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="IoC\AutofacConfig.cs" />
+    <Compile Include="IoC\Modules\RepositoryModule.cs" />
+    <Compile Include="IoC\Modules\ServiceModule.cs" />
     <Compile Include="Migrations\201705051456237_init.cs" />
     <Compile Include="Migrations\201705051456237_init.Designer.cs">
       <DependentUpon>201705051456237_init.cs</DependentUpon>
@@ -157,6 +161,9 @@
     <Compile Include="Repositories\ICompanyRepository.cs" />
     <Compile Include="Repositories\IRepository.cs" />
     <Compile Include="Repositories\IUserRepository.cs" />
+    <Compile Include="Services\Encrypter.cs" />
+    <Compile Include="Services\IEncrypter.cs" />
+    <Compile Include="Services\IService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />

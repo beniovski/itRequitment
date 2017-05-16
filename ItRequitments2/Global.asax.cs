@@ -1,6 +1,7 @@
 ﻿using Autofac;
-using ItRequitment.Infrastructure.IoC;
-using ItRequitment.Infrastructure.Services;
+using ItRequitment;
+using ItRequitment.IoC;
+using ItRequitment.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
