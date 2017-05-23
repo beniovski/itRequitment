@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Informacje ogólne o zestawie zależą od poniższego 
 // zestawu atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // związane z zestawem.
-[assembly: AssemblyTitle("ItRequitment.Infrastructure")]
+[assembly: AssemblyTitle("ItRequitment.Core")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ItRequitment.Infrastructure")]
+[assembly: AssemblyProduct("ItRequitment.Core")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Poniższy identyfikator GUID odpowiada atrybutowi ID biblioteki typów, jeśli ten projekt jest uwidaczniany w modelu COM
-[assembly: Guid("2ef76f66-f9d9-48bf-bc51-9d2a9bf9cb75")]
+[assembly: Guid("3fa6cdbf-377a-4f12-ab9a-f5ad5107f09c")]
 
 // Informacje o wersji zestawu obejmują następujące cztery wartości:
 //

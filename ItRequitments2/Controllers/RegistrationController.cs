@@ -1,13 +1,4 @@
-﻿using ItRequitment.DAL;
-using ItRequitment.Models;
-using ItRequitment.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Security.Cryptography;
-using System.Web.Mvc;
-using System.Text;
+﻿using System.Web.Mvc;
 
 namespace ItRequitment.Controllers
 {

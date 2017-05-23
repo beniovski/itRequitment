@@ -1,4 +1,0 @@
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\Debug\netstandard1.4\ItRequitment.Infrastructure.deps.json
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\Debug\netstandard1.4\ItRequitment.Infrastructure.dll
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\obj\Debug\netstandard1.4\ItRequitment.Infrastructure.csprojResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\obj\Debug\netstandard1.4\ItRequitment.Infrastructure.AssemblyInfo.cs

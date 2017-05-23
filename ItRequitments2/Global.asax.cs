@@ -1,23 +1,21 @@
 ﻿using Autofac;
-using ItRequitment;
-using ItRequitment.IoC;
-using ItRequitment.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+using Autofac.Integration.Mvc;
+using ItRequitment.Infrastructure.IoC;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ItRequitments2
+namespace ItRequitment
 {
     public class MvcApplication : System.Web.HttpApplication
     {
         protected void Application_Start()
         {
+            var builder = new ContainerBuilder();
+            builder.RegisterControllers(typeof(MvcApplication).Assembly);
+            builder.RegisterAssemblyModules(typeof(MvcApplication).Assembly);
+
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
-
             AutofacConfig.ConfigureContainer();
              
 
