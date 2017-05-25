@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\ItRequitment.Test.EndToEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\ItRequitment.Test.EndToEnd.csproj",
       "projectName": "ItRequitment.Test.EndToEnd",
-      "projectPath": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\ItRequitment.Test.EndToEnd.csproj",
-      "outputPath": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\obj\\",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\ItRequitment.Test.EndToEnd.csproj",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.EndToEnd\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"

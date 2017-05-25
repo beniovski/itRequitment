@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\ItRequitment.Test.Unit.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\ItRequitment.Test.Unit.csproj",
       "projectName": "ItRequitment.Test.Unit",
-      "projectPath": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\ItRequitment.Test.Unit.csproj",
-      "outputPath": "C:\\Users\\Daniel\\documents\\visual studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\obj\\",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\ItRequitment.Test.Unit.csproj",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\Visual Studio 2017\\Projects\\ItRequitment\\ItRequitment.Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"
