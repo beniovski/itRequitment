@@ -1,15 +1,14 @@
-﻿using ItRequitment.Core.Models;
+﻿using ItRequitment.Core;
 using System.Threading.Tasks;
 
 namespace ItRequitment.Infrastructure.Services
 {
-    interface IUserService : IService
+    public interface IUserService : IService
     {
-        Task<User> GetAsync(string email);
+        Task<User> GetAsync(string login);
 
-        Task LoginAsync(string email, string password);
-
+        Task LoginAsync(string login, string password);
+        
         Task RegisterAsync(User user);
-
     }
 }

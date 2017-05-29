@@ -14,14 +14,14 @@ namespace ItRequitment.Core.Models
 
         [Required(ErrorMessage = "Podaj datę końca publikacji")]
         [DataType(DataType.Date)]
-        public DateTime EndTime { get; protected set; } 
+        public DateTime EndTime { get; protected set; }
 
-        [Display(Name ="Stanowisko : ")]
+        [Display(Name = "Stanowisko : ")]
         [Required(ErrorMessage = "Nazwa stanowiska jest wymagana")]
-        [StringLength(50,ErrorMessage ="Nazwa Stanowiska nie może być dłuzsza niż 50 znaków")]
+        [StringLength(50, ErrorMessage = "Nazwa Stanowiska nie może być dłuzsza niż 50 znaków")]
         public string Title { get; protected set; }
-        
-        [Display(Name ="Opis stanowiska")]
+
+        [Display(Name = "Opis stanowiska")]
         public string Description { get; protected set; }
 
         [Display(Name = "Wymagania")]
@@ -31,7 +31,6 @@ namespace ItRequitment.Core.Models
         [Required(ErrorMessage = "Podaj miejsce pracy")]
         public string Placement { get; protected set; }
 
-        public virtual Company company { get; protected set; }
-         
-     }
+        public virtual Company Company { get; protected set; }
+    }
 }

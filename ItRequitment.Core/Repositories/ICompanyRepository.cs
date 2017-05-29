@@ -4,20 +4,19 @@ using System.Threading.Tasks;
 
 namespace ItRequitment.Core.Repositories
 {
-    interface ICompanyRepository : IRepository
+    public interface ICompanyRepository : IRepository
     {
-        Task<Company> AddAsync(Company company);
-
         Task<Company> GetAsync(int id);
 
-        Task<Company> RemoveAsync(string email);
+        Task<Company> GetAsync(string email);
 
-        Task<IEnumerable<Company>> GetAllAsync();
+        Task UpdateAsync(Company company);
 
-        Task<Company> UpdateAsync(Company company);
+        Task RemoveAsync(int id);
 
-        Task<JobOffer> AddJobOffer(JobOffer joboffer);
+        Task<IEnumerable<Company>> GetByCity(string city);
 
-        Task<JobOffer> GetJobbOffer(int CompanyId);
+        Task<IEnumerable<JobOffer>> GetAllCompanyOfferAsync(Company company);
+
     }
 }

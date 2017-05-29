@@ -1,20 +1,18 @@
-﻿using ItRequitment.Core.Models;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 namespace ItRequitment.Core.Repositories
 {
     public interface IUserRepository : IRepository
     {
-        Task<User> AddAsync(User user);
-
         Task<User> GetAsync(int id);
 
-        Task<User> RemoveAsync(string email);
+        Task<User> GetAsync(string login);
 
-        Task<IEnumerable<User>> GetAllAsync();
+        Task AddAsync(User user);
 
-        Task<User> UpdateAsync(User user);    
-            
+        Task RemoveAsync(int id);
+
+        Task UpdateAsync(User user);
+       
     }
 }

@@ -1,17 +1,15 @@
-namespace ItRequitments.Core.Migrations
+namespace ItRequitment.Core.Migrations
 {
-    using MySql.Data.Entity;
+    using System;
+    using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using ItRequitment.Core.DAL;
+    using System.Linq;
 
-    sealed class Configuration : DbMigrationsConfiguration<DataBaseContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<ItRequitment.Core.DAL.DataBaseContext>
     {
         public Configuration()
         {
-            CodeGenerator = new MySqlMigrationCodeGenerator();
-            AutomaticMigrationsEnabled = true;
-            AutomaticMigrationDataLossAllowed = true;
-            SetSqlGenerator("MySql.Data.MySqlClient", new MySqlMigrationSqlGenerator());
+            AutomaticMigrationsEnabled = false;
         }
 
         protected override void Seed(ItRequitment.Core.DAL.DataBaseContext context)

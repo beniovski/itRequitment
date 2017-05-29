@@ -4,7 +4,7 @@ using ItRequitment.Infrastructure.Extensions;
 
 namespace ItRequitment.Infrastructure.Services
 {
-    public class Encrypter : IEncrypter
+    public class Encrypter : IEncrypter 
     {
         private static readonly int DeriveBytesIterationsCount = 10000;
         private static readonly int SaltSize = 40;
@@ -47,6 +47,5 @@ namespace ItRequitment.Infrastructure.Services
 
             return bytes;
         }
-
     }
 }
