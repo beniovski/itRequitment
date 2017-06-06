@@ -6,6 +6,8 @@ namespace ItRequitment.Core.Repositories
 {
     public interface ICompanyRepository : IRepository
     {
+        Task AddAsync(Company company); 
+             
         Task<Company> GetAsync(int id);
 
         Task<Company> GetAsync(string email);

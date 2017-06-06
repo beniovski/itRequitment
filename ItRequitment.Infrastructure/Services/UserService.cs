@@ -40,9 +40,14 @@ namespace ItRequitment.Infrastructure.Services
 
 
         }
-
-        public Task RegisterAsync(User user)
+        public async Task RegisterAsync(User user)
         {
+            var getUser = await _userRepository.GetAsync(user.Login);
+            if(getUser!=null)
+            {
+                throw new Exception("User allredy exist");
+            }
+
            
         }
     }

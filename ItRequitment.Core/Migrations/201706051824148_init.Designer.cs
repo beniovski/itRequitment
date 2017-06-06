@@ -13,7 +13,7 @@ namespace ItRequitment.Core.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201705290946071_init"; }
+            get { return "201706051824148_init"; }
         }
         
         string IMigrationMetadata.Source

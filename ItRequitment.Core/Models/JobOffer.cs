@@ -27,6 +27,9 @@ namespace ItRequitment.Core.Models
         [Display(Name = "Wymagania")]
         public string Requirements { get; protected set; }
 
+        [Display(Name = "Zarobiki")]
+        public string Salary { get; protected set; }
+
         [Display(Name = "Podaj miejsce pracy")]
         [Required(ErrorMessage = "Podaj miejsce pracy")]
         public string Placement { get; protected set; }

@@ -30,6 +30,9 @@ namespace ItRequitment.Core.Models
         [DataType(DataType.Password), Compare(nameof(Password), ErrorMessage = "Hasła nie są takie same")]
         public string ConfirmPassword { get; set; }
 
+        [Required(ErrorMessage = "Podaj miejscowość")]
+        public string City { get; set; }
+
         [Required(ErrorMessage = "Podaj adres fimry")]
         public string Addres { get; set; }
 

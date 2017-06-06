@@ -51,7 +51,6 @@ c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\It
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.pdb
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\EntityFramework.dll
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.pdb
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll.config
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
@@ -76,3 +75,157 @@ c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\It
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.xml
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Deployment.xml
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Razor.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.exe
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.exe.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.rsp
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.exe
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.exe.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.rsp
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.AppContext.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Collections.Immutable.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Console.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.Process.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.Compression.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.Pipes.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Reflection.Metadata.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.AccessControl.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Claims.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Threading.Thread.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.ValueTuple.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XPath.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.exe
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.exe.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.rsp
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\VBCSCompiler.exe
+D:\ItRequitment\ItRequitment.Infrastructure\bin\roslyn\VBCSCompiler.exe.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.dll.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.pdb
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Autofac.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Autofac.Integration.Mvc.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Microsoft.Web.Infrastructure.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Helpers.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Mvc.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Razor.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Deployment.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Razor.dll
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.pdb
+D:\ItRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll.config
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Autofac.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Autofac.Integration.Mvc.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\EntityFramework.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Helpers.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Mvc.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.Razor.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Deployment.xml
+D:\ItRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Razor.xml
+D:\ItRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.csprojResolveAssemblyReference.cache
+D:\ItRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.dll
+D:\ItRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\obj\Debug\ItRequitment.Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csc.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\csi.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Autofac.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Autofac.Integration.Mvc.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\ItRequitment.Core.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Autofac.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Autofac.Integration.Mvc.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.Razor.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment.Infrastructure\bin\System.Web.WebPages.Razor.xml

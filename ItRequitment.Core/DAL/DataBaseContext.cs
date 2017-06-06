@@ -16,7 +16,7 @@ namespace ItRequitment.Core.DAL
         }
 
         public DbSet<User> User { get; set; }
-        public DbSet<Company> Company { get; set; }
+        public DbSet<Company> company { get; set; }
         public DbSet<JobOffer> JobOffer { get; set; }
 
     }

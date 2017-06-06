@@ -102,3 +102,215 @@ c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\It
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment\bin\ItRequitment.Core.pdb
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment\bin\ItRequitment.Core.dll.config
 c:\Users\daniel.bednarczuk\Documents\Visual Studio 2017\Projects\ItRequitment\ItRequitment\bin\EntityFramework.xml
+D:\ItRequitment\ItRequitment\bin\roslyn\csc.exe
+D:\ItRequitment\ItRequitment\bin\roslyn\csc.exe.config
+D:\ItRequitment\ItRequitment\bin\roslyn\csc.rsp
+D:\ItRequitment\ItRequitment\bin\roslyn\csi.exe
+D:\ItRequitment\ItRequitment\bin\roslyn\csi.exe.config
+D:\ItRequitment\ItRequitment\bin\roslyn\csi.rsp
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ItRequitment\ItRequitment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.AppContext.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Collections.Immutable.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Console.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Diagnostics.Process.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.IO.Compression.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.IO.Pipes.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Reflection.Metadata.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.AccessControl.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Claims.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Threading.Thread.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.ValueTuple.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Xml.XPath.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ItRequitment\ItRequitment\bin\roslyn\vbc.exe
+D:\ItRequitment\ItRequitment\bin\roslyn\vbc.exe.config
+D:\ItRequitment\ItRequitment\bin\roslyn\vbc.rsp
+D:\ItRequitment\ItRequitment\bin\roslyn\VBCSCompiler.exe
+D:\ItRequitment\ItRequitment\bin\roslyn\VBCSCompiler.exe.config
+D:\ItRequitment\ItRequitment\bin\ApplicationInsights.config
+D:\ItRequitment\ItRequitment\bin\ItRequitment.dll.config
+D:\ItRequitment\ItRequitment\bin\ItRequitment.dll
+D:\ItRequitment\ItRequitment\bin\ItRequitment.pdb
+D:\ItRequitment\ItRequitment\bin\Antlr3.Runtime.dll
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Infrastructure.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.DependencyCollector.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.Web.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.WindowsServer.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.ApplicationInsights.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ItRequitment\ItRequitment\bin\Microsoft.Web.Infrastructure.dll
+D:\ItRequitment\ItRequitment\bin\Newtonsoft.Json.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.Helpers.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.Mvc.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.Optimization.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.Razor.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.Deployment.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.dll
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.Razor.dll
+D:\ItRequitment\ItRequitment\bin\WebGrease.dll
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Core.dll
+D:\ItRequitment\ItRequitment\bin\EntityFramework.dll
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Infrastructure.pdb
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Infrastructure.dll.config
+D:\ItRequitment\ItRequitment\bin\Antlr3.Runtime.pdb
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.DependencyCollector.xml
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.Web.xml
+D:\ItRequitment\ItRequitment\bin\Microsoft.AI.WindowsServer.xml
+D:\ItRequitment\ItRequitment\bin\Microsoft.ApplicationInsights.xml
+D:\ItRequitment\ItRequitment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ItRequitment\ItRequitment\bin\Newtonsoft.Json.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.Helpers.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.Mvc.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.Optimization.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.Razor.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.Deployment.xml
+D:\ItRequitment\ItRequitment\bin\System.Web.WebPages.Razor.xml
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Core.pdb
+D:\ItRequitment\ItRequitment\bin\ItRequitment.Core.dll.config
+D:\ItRequitment\ItRequitment\bin\EntityFramework.xml
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.Helpers.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.Mvc.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.Optimization.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.Razor.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.WebPages.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\ItRequitment\ItRequitment\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\ItRequitment\ItRequitment\obj\Debug\ItRequitment.csprojResolveAssemblyReference.cache
+D:\ItRequitment\ItRequitment\obj\Debug\ItRequitment.dll
+D:\ItRequitment\ItRequitment\obj\Debug\ItRequitment.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csc.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csc.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csi.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\csi.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Claims.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\vbc.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ApplicationInsights.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.Web.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\WebGrease.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Core.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\EntityFramework.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Infrastructure.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.Web.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.Razor.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Core.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\ItRequitment.Core.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\EntityFramework.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\obj\Debug\ItRequitment.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\obj\Debug\ItRequitment.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\obj\Debug\ItRequitment.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Autofac.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Autofac.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Autofac.Integration.Mvc.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ItRequtiment1.1\itRequitment\ItRequitment\bin\Autofac.Integration.Mvc.xml

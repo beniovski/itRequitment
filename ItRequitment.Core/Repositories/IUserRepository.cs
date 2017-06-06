@@ -12,7 +12,6 @@ namespace ItRequitment.Core.Repositories
 
         Task RemoveAsync(int id);
 
-        Task UpdateAsync(User user);
-       
+        Task UpdateAsync(int id, User user);       
     }
 }
